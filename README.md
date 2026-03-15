@@ -489,7 +489,7 @@ npm run dev
 
 ---
 
-## <a id="contributors"></a> ## Contributors
+## <a id="contributors"></a> 👥 Contributors
 
 ```markdown
 - Arun Kumar – Backend Developer
