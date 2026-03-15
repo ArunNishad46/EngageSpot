@@ -508,7 +508,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## <a id="contact-support"></a> 📞 Contact & Support
 
-```markdown
 ## 📞 Contact & Support
 If you have any questions, suggestions, or need help, feel free to reach out!
 
