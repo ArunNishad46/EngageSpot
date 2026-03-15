@@ -333,6 +333,8 @@ across the entire stack.
 ---
 
 ## <a id="project-structure"></a> 📁 Project Structure
+
+```markdown
 engagespot/
 │
 ├── backend/                 # Node.js Server
@@ -359,6 +361,7 @@ engagespot/
 │   └── vite.config.js       # Vite Config
 │
 └── README.md                # Documentation
+```
 
 ---
 
