@@ -21,6 +21,7 @@
   - [Clone the Repository](#clone-the-repository)
   - [Backend Configuration](#backend-configuration)
   - [Frontend Configuration](#frontend-configuration)
+- [Contributors](#contributors)
 - [License](#license)
 - [Contact & Support](#contact-support)
 
@@ -485,6 +486,15 @@ VITE_SOCKET_URL=http://localhost:5000
 npm run dev
 ```
 > ✅ Frontend should be running on `http://localhost:5173`
+
+---
+
+## <a id="contributors"></a> ## Contributors
+
+```markdown
+- Arun Kumar – Backend Developer
+- Bharat Gupta – UI Developer
+```
 
 ---
 
