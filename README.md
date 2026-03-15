@@ -492,7 +492,7 @@ npm run dev
 ## <a id="contributors"></a> 👥 Contributors
 
 ```markdown
-- Arun Kumar – Backend Developer
+- Arun – Backend Developer
 - Bharat Gupta – UI Developer
 ```
 
