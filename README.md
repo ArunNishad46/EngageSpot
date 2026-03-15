@@ -513,10 +513,10 @@ If you have any questions, suggestions, or need help, feel free to reach out!
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [1242arun@gmail.com](mailto:1242arun@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/arun-nishad-8b94a3287](https://linkedin.com/in/arun-nishad-8b94a3287) |
-| 🐙 **GitHub** | [github.com/arunnishad46](https://github.com/arunnishad46) |
-| 🐦 **Portfolio** | [@yourhandle](https://arunnishad-portfolio.vercel.app) |
+| 📧 **Email** | [Email](mailto:1242arun@gmail.com) |
+| 💼 **LinkedIn** | [LinkedIn](https://linkedin.com/in/arun-nishad-8b94a3287) |
+| 🐙 **GitHub** | [GitHub](https://github.com/arunnishad46) |
+| 🐦 **Portfolio** | [Portfolio](https://arunnishad-portfolio.vercel.app) |
 
 ---
 
