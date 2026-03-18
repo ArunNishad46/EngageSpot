@@ -297,7 +297,7 @@ const About = () => {
 
             {/* Copyright */}
             <p className="flex items-center gap-1 text-dark-400 text-sm text-center">
-              © {new Date().getFullYear()} EngageSpot. Built with <FiHeart className='text-red-600 animate-pulse' /> by our amazing team.
+              © {new Date().getFullYear()} EngageSpot. Built with <FiHeart className='gradient-primary animate-pulse' /> by our amazing team.
             </p>
 
             {/* Links */}
