@@ -18,7 +18,7 @@ const teamMembers = [
   },
   {
     name: 'Bharat Gupta',
-    role: 'Frontend Designer',
+    role: 'Full Stack Developer',
     image: '/bharat-gupta.jpeg',
     bio: 'Creating beautiful and intuitive user interfaces.',
     github: 'https://github.com/sarahwilson',
